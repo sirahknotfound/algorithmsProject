@@ -1,0 +1,4 @@
+server,weight,handledRequests,totalServiceTime,utilization
+S1,5,512,972.160044,1.962451
+S2,3,289,573.667476,1.158034
+S3,2,199,436.599398,0.881341
